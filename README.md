@@ -1,6 +1,6 @@
 Bootstrap 5 Carousel
 
-A bootstrap carousel the advances one element at a time (in this case, a single card).
+A bootstrap carousel the advances one element at a time. In this use case a total of seven cards with four showing at any one time. It's responsive and collapses below 768px.
 
 This page is a (simplified) template Bootstrap 5 (5 NOT 4 or 3) users looking at integrating a carousel with multiple elements (cards, images etc).
 
