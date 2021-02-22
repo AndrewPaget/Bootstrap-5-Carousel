@@ -2,7 +2,7 @@ Bootstrap 5 Carousel
 
 A bootstrap carousel the advances one element at a time. In this use case a total of seven cards with four showing at any one time. It's responsive and stacks to a single column below 768px.
 
-This page is a (simplified) template Bootstrap 5 Carousel (5 NOT 4 or 3...plenty of these already out there) users looking at integrating a carousel with multiple elements (cards, images etc).
+This page is a (simplified) template Bootstrap 5 Carousel (5 NOT 4 or 3...plenty of these already out there) for users looking at integrating a carousel with multiple elements (cards, images etc).
 
 Bootstrap 5 by default comes with no jquery so this template makes use of pure javascript to make the advance (currently heading left).
 
