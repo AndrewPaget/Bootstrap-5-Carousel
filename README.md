@@ -14,3 +14,7 @@ For my specific requirements (simple) it worked great. Maybe it can start someon
 
 Use it if you like. Have fun.
 
+If you make improvements, post them and let me know! 
+
+:-)
+
